@@ -1,0 +1,20 @@
+@import '~antd/dist/antd.css';
+
+.wrapper{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+    width: 20rem;
+    padding: 2rem;
+    display:flex;
+    flex-direction: column;
+    align-self: center;
+    justify-content: center;
+    border: 2px solid #efefef;
+}
+
+.title{
+    text-align: center;
+    margin-bottom: 1rem;
+    font-weight: 550;
+}
